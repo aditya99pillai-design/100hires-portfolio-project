@@ -73,3 +73,11 @@ Performance Marketing Specialist with 3+ years experience
 in Meta Ads, Google Ads, Amazon PPC, and SEO for D2C 
 eCommerce brands. Managed Rs.25L+ in ad budgets achieving 
 7x ROAS. Always learning, always adapting.
+- **Git not recognised in terminal** — After installing 
+  Git for Windows, the terminal in Cursor (PowerShell) 
+  did not recognise the git command. Got a "not recognised" 
+  error. Switched to cmd terminal — still didn't work. 
+  Restarted the laptop to refresh the system PATH so 
+  Windows could recognise Git properly. After restart, 
+  switched to cmd terminal and all git commands worked 
+  successfully.
