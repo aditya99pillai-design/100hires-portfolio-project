@@ -32,9 +32,9 @@ This project aims to:
 | Lily Ray               | LinkedIn         | https://www.linkedin.com/in/lilyraynyc            | Respected SEO expert known for insights on search quality, content trust, and Google updates. |
 | Kyle Roof              | YouTube          | https://www.youtube.com/@KyleRoof                 | Known for testing-based SEO methodologies and content optimisation strategies.                |
 | Himani Kankaria        | LinkedIn         | https://www.linkedin.com/in/himanikankaria        | Indian SEO consultant sharing practical SEO, content, and growth insights.                    |
-| Vaibhav Kakkar         | LinkedIn         | https://www.linkedin.com/in/vaibhavkakkar         | Shares expertise on SEO strategy, content growth, and organic acquisition.                    |
+| Mike King              | LinkedIn         | —                                                 | TODO                                                                                            |
 | Amanpreet Singh Gulati | LinkedIn         | https://www.linkedin.com/in/amanpreetsinghgulati/ | Active voice on AI Search, AEO, SEO, and content visibility in AI-driven search environments. |
-| Deepak Kanakaraju      | LinkedIn         | https://www.linkedin.com/in/deepak-kanakaraju/    | Digital marketing educator covering AI tools, content systems, and marketing workflows.       |
+| Aleyda Solis           | LinkedIn         | —                                                 | TODO                                                                                            |
 
 ## Research Methodology
 
