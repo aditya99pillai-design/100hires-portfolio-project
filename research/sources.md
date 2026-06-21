@@ -30,7 +30,7 @@ This project aims to:
 | Nathan Gotch           | YouTube          | https://www.youtube.com/@GotchSEO                 | Shares SEO frameworks, automation strategies, and scalable content systems.                   |
 | Julian Goldie          | YouTube          | https://www.youtube.com/@JulianGoldieSEO          | Focuses heavily on AI-powered SEO, content production, and link building.                     |
 | Lily Ray               | LinkedIn         | https://www.linkedin.com/in/lilyraynyc            | Respected SEO expert known for insights on search quality, content trust, and Google updates. |
-| Kyle Roof              | YouTube          | https://www.youtube.com/@KyleRoof                 | Known for testing-based SEO methodologies and content optimisation strategies.                |
+| Neil Patel             | YouTube          | https://www.youtube.com/@neilpatel                | One of the most recognised SEO practitioners globally, actively publishing content on AI SEO, AI search, content optimisation, and search marketing trends. |
 | Himani Kankaria        | LinkedIn         | https://www.linkedin.com/in/himanikankaria        | Indian SEO consultant sharing practical SEO, content, and growth insights.                    |
 | Mike King              | LinkedIn         | —                                                 | TODO                                                                                            |
 | Amanpreet Singh Gulati | LinkedIn         | https://www.linkedin.com/in/amanpreetsinghgulati/ | Active voice on AI Search, AEO, SEO, and content visibility in AI-driven search environments. |
