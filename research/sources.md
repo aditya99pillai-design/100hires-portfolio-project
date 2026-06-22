@@ -16,25 +16,27 @@ The goal of this research project is to identify common frameworks, workflows, a
 
 This project aims to:
 
-* Identify leading practitioners in AI-powered SEO
-* Analyse their content, workflows, and recommendations
-* Discover recurring patterns across experts
-* Build a foundation for an AI SEO playbook based on real-world practices
+- Identify leading practitioners in AI-powered SEO
+- Analyse their content, workflows, and recommendations
+- Discover recurring patterns across experts
+- Build a foundation for an AI SEO playbook based on real-world practices
 
 ## Experts Researched
 
-| Expert                 | Primary Platform | Profile                                           | Why Selected                                                                                  |
-| ---------------------- | ---------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Matt Diggity           | YouTube          | https://www.youtube.com/@MattDiggitySEO           | Known for practical SEO testing, content systems, and AI-assisted SEO workflows.              |
-| Koray Tugberk GUBUR    | LinkedIn         | https://www.linkedin.com/in/koraygubur            | Leading authority on Semantic SEO, topical authority, and search engine understanding.        |
-| Nathan Gotch           | YouTube          | https://www.youtube.com/@GotchSEO                 | Shares SEO frameworks, automation strategies, and scalable content systems.                   |
-| Julian Goldie          | YouTube          | https://www.youtube.com/@JulianGoldieSEO          | Focuses heavily on AI-powered SEO, content production, and link building.                     |
-| Lily Ray               | LinkedIn         | https://www.linkedin.com/in/lilyraynyc            | Respected SEO expert known for insights on search quality, content trust, and Google updates. |
-| Neil Patel             | YouTube          | https://www.youtube.com/@neilpatel                | One of the most recognised SEO practitioners globally, actively publishing content on AI SEO, AI search, content optimisation, and search marketing trends. |
-| Himani Kankaria        | LinkedIn         | https://www.linkedin.com/in/himanikankaria        | Indian SEO consultant sharing practical SEO, content, and growth insights.                    |
-| Mike King              | LinkedIn         | —                                                 | TODO                                                                                            |
-| Amanpreet Singh Gulati | LinkedIn         | https://www.linkedin.com/in/amanpreetsinghgulati/ | Active voice on AI Search, AEO, SEO, and content visibility in AI-driven search environments. |
-| Aleyda Solis           | LinkedIn         | —                                                 | TODO                                                                                            |
+
+| Expert                 | Primary Platform | Profile                                                                                                | Why Selected                                                                                                                                                |
+| ---------------------- | ---------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Matt Diggity           | YouTube          | [https://www.youtube.com/@MattDiggitySEO](https://www.youtube.com/@MattDiggitySEO)                     | Known for practical SEO testing, content systems, and AI-assisted SEO workflows.                                                                            |
+| Koray Tugberk GUBUR    | LinkedIn         | [https://www.linkedin.com/in/koraygubur](https://www.linkedin.com/in/koraygubur)                       | Leading authority on Semantic SEO, topical authority, and search engine understanding.                                                                      |
+| Nathan Gotch           | YouTube          | [https://www.youtube.com/@GotchSEO](https://www.youtube.com/@GotchSEO)                                 | Shares SEO frameworks, automation strategies, and scalable content systems.                                                                                 |
+| Julian Goldie          | YouTube          | [https://www.youtube.com/@JulianGoldieSEO](https://www.youtube.com/@JulianGoldieSEO)                   | Focuses heavily on AI-powered SEO, content production, and link building.                                                                                   |
+| Lily Ray               | LinkedIn         | [https://www.linkedin.com/in/lilyraynyc](https://www.linkedin.com/in/lilyraynyc)                       | Respected SEO expert known for insights on search quality, content trust, and Google updates.                                                               |
+| Neil Patel             | YouTube          | [https://www.youtube.com/@neilpatel](https://www.youtube.com/@neilpatel)                               | One of the most recognised SEO practitioners globally, actively publishing content on AI SEO, AI search, content optimisation, and search marketing trends. |
+| Himani Kankaria        | LinkedIn         | [https://www.linkedin.com/in/himanikankaria](https://www.linkedin.com/in/himanikankaria)               | Indian SEO consultant sharing practical SEO, content, and growth insights.                                                                                  |
+| Mike King              | LinkedIn         | [https://www.linkedin.com/in/michaelkingphilly/](https://www.linkedin.com/in/michaelkingphilly/)       | AI Search, technical SEO, content engineering, and information retrieval expert.                                                                            |
+| Amanpreet Singh Gulati | LinkedIn         | [https://www.linkedin.com/in/amanpreetsinghgulati/](https://www.linkedin.com/in/amanpreetsinghgulati/) | Active voice on AI Search, AEO, SEO, and content visibility in AI-driven search environments.                                                               |
+| Aleyda Solis           | LinkedIn         | [https://www.linkedin.com/in/aleyda/](https://www.linkedin.com/in/aleyda/)                             | International SEO consultant focusing on AI Search, GEO, visibility measurement, and technical SEO.                                                         |
+
 
 ## Research Methodology
 
