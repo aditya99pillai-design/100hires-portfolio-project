@@ -1,83 +1,190 @@
-# 100Hires Portfolio Project — Aditya Pillai
+# 100Hires Portfolio Project – Aditya Pillai
 
-## Tools I Installed
+## Project Overview
 
-- **Git for Windows** — Downloaded from git-scm.com. 
-  Enables version control locally on Windows.
-- **Cursor IDE** — Downloaded from cursor.com. 
-  AI-powered code editor. Logged in with my account.
-- **Claude Code** — Installed via Cursor's Extensions 
-  Marketplace. By Anthropic.
-- **Codex** — Installed via Cursor's Extensions 
-  Marketplace. By OpenAI.
+This repository contains my research project on:
 
-## Steps I Completed
+**AI-Powered SEO Content Production**
 
-1. Installed Git for Windows
-2. Created a GitHub account (username: aditya99pillai-design)
-3. Created a public repository called 100hires-portfolio-project
-4. Downloaded Cursor IDE and logged in
-5. Connected GitHub to Cursor via the Integrations dashboard
-6. Installed Claude Code and Codex extensions inside Cursor
-7. Cloned the GitHub repository into Cursor using HTTPS URL
-8. Opened README.md inside Cursor and edited it
-9. Committed and pushed changes back to GitHub
+The objective was to identify leading practitioners working at the intersection of SEO and Artificial Intelligence, analyse their content, extract recurring frameworks and workflows, and build a practical AI SEO playbook based on real-world expertise.
 
-## Issues I Ran Into and How I Solved Them
-- **Finding the correct Cursor IDE** — Initially downloaded 
-  the wrong version of Cursor (Cursor Agents app) which did 
-  not have an Extensions panel. Used ChatGPT to troubleshoot 
-  this specific issue and find the correct Cursor IDE download 
-  with the full Extensions Marketplace. Once in the correct 
-  IDE, successfully installed both Claude Code and Codex.
+---
 
-- **Overall approach** — Used Claude (claude.ai) for 
-  step-by-step guidance throughout the process — from 
-  creating the GitHub account and repository, to cloning 
-  it in Cursor, editing the README, and pushing changes. 
-  Used ChatGPT specifically to identify the correct version 
-  of Cursor IDE. I'm transparent about this because using 
-  AI tools effectively to solve problems is a skill in 
-  itself, and this entire task felt like a real-world 
-  test of exactly that.
+## Why I Chose This Topic
 
-- **Never used GitHub or Git before** — Completely new 
-  to version control. Used Claude (claude.ai) to guide 
-  me through each step. I believe using AI as a learning 
-  tool is a valid and honest approach to solving problems 
-  independently.
+I have over four years of experience in:
 
-- **Wrong version of Cursor** — Initially downloaded the 
-  new Cursor Agents app which did not have a traditional 
-  Extensions panel. Troubleshot by searching online and 
-  found the correct Cursor IDE version which had the 
-  Extensions Marketplace with Claude Code and Codex.
+* SEO
+* Content Writing
+* Performance Marketing
+* Paid Advertising
 
-- **Git clone via command palette** — Had never used a 
-  command palette before. Learned to use Ctrl+Shift+P 
-  to access Git Clone and connect my repository to Cursor.
+As AI continues to reshape search behaviour, content production, and discovery systems, understanding how experienced practitioners are adapting has become increasingly important.
 
-## What This Process Showed Me
+This project allowed me to explore how modern SEO professionals are:
 
-I completed all steps within the deadline despite having 
-zero prior experience with GitHub, Git, or Cursor. Where 
-I hit blockers I troubleshot independently, documented 
-what went wrong, and kept moving forward. This mirrors 
-exactly how I approach new tools in my marketing work — 
-whether learning Helium 10 for Amazon PPC or setting up 
-Meta Pixel events for the first time.
+* Using AI in content production
+* Adapting to AI-powered search
+* Building topical authority
+* Optimising for AI visibility
+* Measuring performance in evolving search environments
+
+---
+
+## Research Objective
+
+The goal of this project was to:
+
+* Identify leading experts in AI-powered SEO
+* Analyse recent content from multiple sources
+* Extract recurring themes and frameworks
+* Compare perspectives across practitioners
+* Build a practical AI SEO playbook based on research findings
+
+---
+
+## Repository Structure
+
+```text
+research/
+│
+├── linkedin-posts/
+│   ├── aleyda-solis.md
+│   ├── amanpreet-singh-gulati.md
+│   ├── himani-kankaria.md
+│   ├── koray-gubur.md
+│   ├── lily-ray.md
+│   └── mike-king.md
+│
+├── youtube-transcripts/
+│   ├── julian-goldie.md
+│   ├── matt-diggity.md
+│   ├── nathan-gotch.md
+│   └── neil-patel.md
+│
+├── other/
+│   ├── recurring-patterns.md
+│   └── ai-seo-playbook.md
+│
+└── sources.md
+```
+
+---
+
+## Experts Researched
+
+### LinkedIn Experts
+
+1. Aleyda Solis
+2. Amanpreet Singh Gulati
+3. Himani Kankaria
+4. Koray Tugberk GUBUR
+5. Lily Ray
+6. Mike King
+
+### YouTube Experts
+
+1. Matt Diggity
+2. Nathan Gotch
+3. Julian Goldie
+4. Neil Patel
+
+---
+
+## Research Methodology
+
+For each expert I collected and analysed:
+
+* Recent LinkedIn posts
+* Recent YouTube content
+* Public commentary on AI search and SEO
+* Frameworks and workflows discussed repeatedly
+
+Rather than collecting large volumes of content, I focused on identifying:
+
+* High-signal insights
+* Repeatable frameworks
+* Emerging industry patterns
+* Practical implementation strategies
+
+---
+
+## Key Themes Identified
+
+Across all experts, several recurring themes appeared:
+
+### AI Search Visibility
+
+Traditional rankings are becoming less important as AI systems increasingly determine which sources are cited and surfaced.
+
+### Entity-Based SEO
+
+Experts repeatedly emphasised entities, authority signals, structured data, and semantic relationships.
+
+### Topical Authority
+
+Creating comprehensive content ecosystems remains one of the strongest visibility strategies.
+
+### Generative Engine Optimisation (GEO)
+
+Several experts discussed optimisation strategies specifically for AI-generated search experiences.
+
+### Content Freshness
+
+AI systems increasingly reward current, well-maintained information.
+
+### Authority Beyond Owned Media
+
+Third-party mentions, reviews, discussions, and citations are becoming more important for AI visibility.
+
+---
+
+## Additional Deliverables
+
+### Recurring Patterns Analysis
+
+Located in:
+
+research/other/recurring-patterns.md
+
+This document consolidates major themes identified across all experts.
+
+### AI SEO Playbook
+
+Located in:
+
+research/other/ai-seo-playbook.md
+
+This document converts research findings into actionable implementation recommendations.
+
+---
+
+## Technical Skills Demonstrated
+
+Throughout this project I used:
+
+* Git
+* GitHub
+* Cursor IDE
+* Claude Code
+* ChatGPT
+* Research workflows
+* Content analysis
+* Repository organisation
+* Documentation
+
+---
 
 ## About Me
 
-Performance Marketing Specialist with 3+ years experience 
-in Meta Ads, Google Ads, Amazon PPC, and SEO for D2C 
-eCommerce brands. Managed Rs.25L+ in ad budgets achieving 
-7x ROAS. Always learning, always adapting.
-- **Git not recognised in terminal** — After installing 
-  Git for Windows, the terminal in Cursor (PowerShell) 
-  did not recognise the git command. Got a "not recognised" 
-  error. Switched to cmd terminal — still didn't work. 
-  Restarted the laptop to refresh the system PATH so 
-  Windows could recognise Git properly. After restart, 
-  switched to cmd terminal and all git commands worked 
-  successfully.
+Aditya Pillai
+
+Performance Marketing Specialist with experience in:
+
+* SEO
+* Content Marketing
+* Meta Ads
+* Google Ads
+* Amazon PPC
+
+I enjoy combining marketing strategy, analytics, and emerging AI tools to solve real business problems and improve marketing performance.
